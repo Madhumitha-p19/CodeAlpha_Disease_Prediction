@@ -87,7 +87,7 @@ CodeAlpha_Disease_Prediction/
 
 The project is deployed using Streamlit Community Cloud.
 
-👉 [Live Demo](https://codealphadiseaseprediction-37oug5hytlr2jvbvfm4p.streamlit.app/)
+👉 [Live Demo](https://codealphadiseaseprediction-aqrbwkuaq6wgmyihp9fmrc.streamlit.app/)
 
 📂 [GitHub Repository](https://github.com/pavitrapavipavitra321-cmd/CodeAlpha_Disease_Prediction)
 
